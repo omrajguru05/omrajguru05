@@ -1,17 +1,13 @@
-# Om Rajguru
+![Om Rajguru](https://in1.omcdn.xyz/static/identity/defaults/om-og-in1.png)
 
+# Om Rajguru
 I work at the intersection of business, technology, and education.
 Heavy thinking, lean building. I use AI, design, and strategy
 to solve real problems and turn users into builders.
-
 &nbsp;
-
 ---
-
 &nbsp;
-
 ## Stack
-
 | Category | Technologies |
 |---|---|
 | **Languages** | HTML5, CSS3, JavaScript, TypeScript, Python, Rust, Swift, Kotlin, Java, C, C++, C#, PHP, PowerShell, Objective-C |
@@ -23,33 +19,20 @@ to solve real problems and turn users into builders.
 | **CI/CD and Version Control** | Git, GitHub, GitLab, GitLab CI |
 | **Design and Productivity** | Figma, Framer, Dribbble, Notion, Jira, Postman |
 | **Other** | FFmpeg, OpenTelemetry, Twilio, UnrealEngine, ESLint |
-
 &nbsp;
-
 ---
-
 &nbsp;
-
 ## Writing and Work
-
 **[Builds](https://www.omrajguru.com/builds)**
 Projects I am actively building, documented day by day.
-
 **[Dev Notes](https://www.omrajguru.com/devnotes)**
 Code explained the way I wish someone had explained it to me.
-
 **[Quick Ships](https://www.omrajguru.com/quick-ships)**
 Raw thoughts and instant ideas. Unpolished and direct.
-
 **[Writings](https://omrajguru.com/writings)**
 Long-form essays and reflections.
-
 &nbsp;
-
 ---
-
 &nbsp;
-
 ## Find Me
-
-[Website](https://omrajguru.com) &nbsp;&nbsp; [X](https://x.com/omrajguru_) &nbsp;&nbsp; [Contact](https://www.omrajguru.com/contact)
+[Website](https://omrajguru.com) &nbsp;&nbsp; [X](https://x.com/omrajguru_) &nbsp;&nbsp; [Projects](http://projects.omrajguru.com) &nbsp;&nbsp; [Dev.to](https://dev.to/omrajguru05/) &nbsp;&nbsp; [Contact](https://www.omrajguru.com/contact)
