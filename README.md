@@ -34,4 +34,4 @@ to solve real problems and turn users into builders.
 
 ## Find Me
 
-[Website](https://omrajguru.com) | [X](https://x.com/omrajguru_) | [Projects](http://projects.omrajguru.com) | [Dev.to](https://dev.to/omrajguru05/) | [Contact](https://www.omrajguru.com/contact)
+[Website](https://omrajguru.com) | [X](https://x.com/NotOmRajguru) | [Projects](http://projects.omrajguru.com) | [Dev.to](https://dev.to/omrajguru05/) | [Contact](https://www.omrajguru.com/contact)
