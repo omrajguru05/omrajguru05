@@ -30,6 +30,16 @@ to solve real problems and turn users into builders.
 * [Quick Ships](https://www.omrajguru.com/quick-ships) — Raw thoughts and instant ideas. Unpolished and direct.
 * [Writings](https://omrajguru.com/writings) — Long-form essays and reflections.
 
+### Latest
+
+**Writing**
+<!-- WRITING:START -->
+<!-- WRITING:END -->
+
+**Dev Note**
+<!-- DEVNOTE:START -->
+<!-- DEVNOTE:END -->
+
 ---
 
 ## Find Me
