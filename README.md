@@ -34,12 +34,12 @@ to solve real problems and turn users into builders.
 
 **Writing**
 <!-- WRITING:START -->
-- [The Cost of Free](https://www.omrajguru.com/writings/the-cost-of-free)
+- [The Cost of Free](https://www.omrajguru.com/writings/access)
 <!-- WRITING:END -->
 
 **Dev Note**
 <!-- DEVNOTE:START -->
-- [I Turned My Navbar Into a Dynamic Island](https://www.omrajguru.com/devnotes/dynamic-island)
+- [I Turned My Navbar Into a Dynamic Island](https://www.omrajguru.com/devnotes/building-my-dynamic-island)
 <!-- DEVNOTE:END -->
 
 ---
