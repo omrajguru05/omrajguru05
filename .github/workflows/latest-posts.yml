@@ -1,0 +1,33 @@
+name: Update latest posts
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-latest-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update latest writing
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "WRITING"
+          feed_list: "https://www.omrajguru.com/writings/feed.xml"
+          max_post_count: 1
+          commit_message: "Update latest writing"
+
+      - name: Update latest dev note
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "DEVNOTE"
+          feed_list: "https://www.omrajguru.com/devnotes/feed.xml"
+          max_post_count: 1
+          commit_message: "Update latest dev note"
