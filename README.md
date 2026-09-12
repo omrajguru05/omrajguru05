@@ -34,7 +34,7 @@ to solve real problems and turn users into builders.
 
 **Writing**
 <!-- WRITING:START -->
-- [The Cost of Free](https://www.omrajguru.com/writings/access)
+- [Think Past the Trend](https://www.omrajguru.com/writings/aftermath)
 <!-- WRITING:END -->
 
 **Dev Note**
