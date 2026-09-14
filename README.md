@@ -39,7 +39,7 @@ to solve real problems and turn users into builders.
 
 **Dev Note**
 <!-- DEVNOTE:START -->
-- [I Turned My Navbar Into a Dynamic Island](https://www.omrajguru.com/devnotes/building-my-dynamic-island)
+- [Reprint: Building a Daily Newspaper for My Archive](https://www.omrajguru.com/devnotes/reprint)
 <!-- DEVNOTE:END -->
 
 ---
