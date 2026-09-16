@@ -39,7 +39,7 @@ to solve real problems and turn users into builders.
 
 **Dev Note**
 <!-- DEVNOTE:START -->
-- [Reprint: Building a Daily Newspaper for My Archive](https://www.omrajguru.com/devnotes/reprint)
+- [The Craft of Small Details](https://www.omrajguru.com/devnotes/polish)
 <!-- DEVNOTE:END -->
 
 ---
