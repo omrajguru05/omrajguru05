@@ -39,7 +39,7 @@ to solve real problems and turn users into builders.
 
 **Dev Note**
 <!-- DEVNOTE:START -->
-- [The Craft of Small Details](https://www.omrajguru.com/devnotes/polish)
+- [Physics of Fluid Cursors](https://www.omrajguru.com/devnotes/cursor)
 <!-- DEVNOTE:END -->
 
 ---
