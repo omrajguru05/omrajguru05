@@ -39,7 +39,7 @@ to solve real problems and turn users into builders.
 
 **Dev Note**
 <!-- DEVNOTE:START -->
-- [Physics of Fluid Cursors](https://www.omrajguru.com/devnotes/cursor)
+- [Letting Jev Choose the Related Articles](https://www.omrajguru.com/devnotes/related-articles-with-jev)
 <!-- DEVNOTE:END -->
 
 ---
