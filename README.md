@@ -34,7 +34,7 @@ to solve real problems and turn users into builders.
 
 **Writing**
 <!-- WRITING:START -->
-- [Think Past the Trend](https://www.omrajguru.com/writings/aftermath)
+- [Hold your people close](https://www.omrajguru.com/writings/leverage)
 <!-- WRITING:END -->
 
 **Dev Note**
