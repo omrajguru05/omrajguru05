@@ -39,7 +39,7 @@ to solve real problems and turn users into builders.
 
 **Dev Note**
 <!-- DEVNOTE:START -->
-- [Letting Jev Choose the Related Articles](https://www.omrajguru.com/devnotes/related-articles-with-jev)
+- [Redesigning My Homepage Without Changing a Word](https://www.omrajguru.com/devnotes/homepage)
 <!-- DEVNOTE:END -->
 
 ---
