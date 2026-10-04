@@ -34,7 +34,7 @@ to solve real problems and turn users into builders.
 
 **Writing**
 <!-- WRITING:START -->
-- [What Went Wrong With ibbe](https://www.omrajguru.com/writings/postmortem)
+- [A New Page About How I Design](https://www.omrajguru.com/writings/origins)
 <!-- WRITING:END -->
 
 **Dev Note**
