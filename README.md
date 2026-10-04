@@ -34,7 +34,7 @@ to solve real problems and turn users into builders.
 
 **Writing**
 <!-- WRITING:START -->
-- [Hold your people close](https://www.omrajguru.com/writings/leverage)
+- [What Went Wrong With ibbe](https://www.omrajguru.com/writings/postmortem)
 <!-- WRITING:END -->
 
 **Dev Note**
