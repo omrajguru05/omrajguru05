@@ -39,7 +39,7 @@ to solve real problems and turn users into builders.
 
 **Dev Note**
 <!-- DEVNOTE:START -->
-- [Redesigning My Homepage Without Changing a Word](https://www.omrajguru.com/devnotes/homepage)
+- [Page Transitions That Read Their Direction From the URL](https://www.omrajguru.com/devnotes/page-transitions)
 <!-- DEVNOTE:END -->
 
 ---
