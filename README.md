@@ -34,7 +34,7 @@ to solve real problems and turn users into builders.
 
 **Writing**
 <!-- WRITING:START -->
-- [A New Page About How I Design](https://www.omrajguru.com/writings/origins)
+- [Twenty Hands That Never Tire](https://www.omrajguru.com/writings/hands)
 <!-- WRITING:END -->
 
 **Dev Note**
