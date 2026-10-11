@@ -34,7 +34,7 @@ to solve real problems and turn users into builders.
 
 **Writing**
 <!-- WRITING:START -->
-- [Twenty Hands That Never Tire](https://www.omrajguru.com/writings/hands)
+- [The Borrowed Loyalties of Machines](https://www.omrajguru.com/writings/allegiance)
 <!-- WRITING:END -->
 
 **Dev Note**
